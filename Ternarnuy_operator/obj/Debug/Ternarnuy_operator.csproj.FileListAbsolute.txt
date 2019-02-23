@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\bin\Debug\Ternarnuy_operator.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\bin\Debug\Ternarnuy_operator.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\bin\Debug\Ternarnuy_operator.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\obj\Debug\Ternarnuy_operator.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\obj\Debug\Ternarnuy_operator.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\obj\Debug\Ternarnuy_operator.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Ternarnuy_operator\obj\Debug\Ternarnuy_operator.pdb
