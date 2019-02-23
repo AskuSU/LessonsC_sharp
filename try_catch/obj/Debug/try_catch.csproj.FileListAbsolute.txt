@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\bin\Debug\try_catch.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\bin\Debug\try_catch.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\obj\Debug\try_catch.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\obj\Debug\try_catch.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\try_catch\obj\Debug\try_catch.pdb
