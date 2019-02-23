@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\bin\Debug\class_console.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\bin\Debug\class_console.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\bin\Debug\class_console.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\obj\Debug\class_console.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\obj\Debug\class_console.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\obj\Debug\class_console.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\class_console\obj\Debug\class_console.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\bin\x64\Debug\Math_op.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\bin\x64\Debug\Math_op.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\bin\x64\Debug\Math_op.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\obj\x64\Debug\Math_op.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\obj\x64\Debug\Math_op.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Math_op\obj\x64\Debug\Math_op.pdb
