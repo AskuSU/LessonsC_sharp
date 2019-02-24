@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\bin\Debug\Break_Cont.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\bin\Debug\Break_Cont.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\bin\Debug\Break_Cont.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\obj\Debug\Break_Cont.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\obj\Debug\Break_Cont.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\obj\Debug\Break_Cont.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Break_Cont\obj\Debug\Break_Cont.pdb
