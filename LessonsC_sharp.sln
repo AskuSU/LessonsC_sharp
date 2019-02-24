@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch_case", "switch_case\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_catch", "try_catch\try_catch.csproj", "{D9BFC663-410F-4995-A5FB-2BCA49E1ED9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odnomer_mas", "Odnomer_mas\Odnomer_mas.csproj", "{77C9DB52-6147-49A3-9241-56CF813F135F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,14 @@ Global
 		{D9BFC663-410F-4995-A5FB-2BCA49E1ED9A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D9BFC663-410F-4995-A5FB-2BCA49E1ED9A}.Release|x64.ActiveCfg = Release|Any CPU
 		{D9BFC663-410F-4995-A5FB-2BCA49E1ED9A}.Release|x64.Build.0 = Release|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Debug|x64.Build.0 = Debug|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Release|x64.ActiveCfg = Release|Any CPU
+		{77C9DB52-6147-49A3-9241-56CF813F135F}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

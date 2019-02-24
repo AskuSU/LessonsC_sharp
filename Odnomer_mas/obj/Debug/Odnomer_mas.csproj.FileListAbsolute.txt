@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\bin\Debug\Odnomer_mas.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\bin\Debug\Odnomer_mas.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\bin\Debug\Odnomer_mas.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\obj\Debug\Odnomer_mas.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\obj\Debug\Odnomer_mas.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\obj\Debug\Odnomer_mas.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\Odnomer_mas\obj\Debug\Odnomer_mas.pdb
