@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods2", "methods2\methods2.csproj", "{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod_out_ref", "mod_out_ref\mod_out_ref.csproj", "{16D1A2EF-392C-4949-B958-77891842EE76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,14 @@ Global
 		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|x64.ActiveCfg = Release|Any CPU
 		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|x64.Build.0 = Release|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Debug|x64.Build.0 = Debug|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Release|x64.ActiveCfg = Release|Any CPU
+		{16D1A2EF-392C-4949-B958-77891842EE76}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

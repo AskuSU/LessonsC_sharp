@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\bin\Debug\mod_out_ref.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\bin\Debug\mod_out_ref.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\bin\Debug\mod_out_ref.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\obj\Debug\mod_out_ref.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\obj\Debug\mod_out_ref.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\obj\Debug\mod_out_ref.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\mod_out_ref\obj\Debug\mod_out_ref.pdb
