@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\bin\Debug\odnomer_mas2.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\bin\Debug\odnomer_mas2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\bin\Debug\odnomer_mas2.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\obj\Debug\odnomer_mas2.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\obj\Debug\odnomer_mas2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\odnomer_mas2\obj\Debug\odnomer_mas2.pdb
