@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polya", "Polya\Polya.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods", "methods\methods.csproj", "{F77A9DFB-D301-423F-9521-B030F1C058FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods2", "methods2\methods2.csproj", "{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,14 @@ Global
 		{F77A9DFB-D301-423F-9521-B030F1C058FF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F77A9DFB-D301-423F-9521-B030F1C058FF}.Release|x64.ActiveCfg = Release|Any CPU
 		{F77A9DFB-D301-423F-9521-B030F1C058FF}.Release|x64.Build.0 = Release|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Debug|x64.Build.0 = Debug|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|x64.ActiveCfg = Release|Any CPU
+		{9193AB25-A1CB-4F24-AC61-7EB6EC9A0230}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

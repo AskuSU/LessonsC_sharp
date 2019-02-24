@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\bin\Debug\methods2.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\bin\Debug\methods2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\bin\Debug\methods2.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\obj\Debug\methods2.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\obj\Debug\methods2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\methods2\obj\Debug\methods2.pdb
