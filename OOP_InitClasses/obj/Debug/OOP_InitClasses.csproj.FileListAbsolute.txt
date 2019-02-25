@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\obj\Debug\OOP_InitClasses.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\obj\Debug\OOP_InitClasses.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\bin\Debug\OOP_InitClasses.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\bin\Debug\OOP_InitClasses.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\bin\Debug\OOP_InitClasses.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\obj\Debug\OOP_InitClasses.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_InitClasses\obj\Debug\OOP_InitClasses.pdb
