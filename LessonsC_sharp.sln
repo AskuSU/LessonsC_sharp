@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod_out_ref", "mod_out_ref\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imenova_parametry", "imenova_parametry\imenova_parametry.csproj", "{51566EAA-873C-45C8-9DFC-CB085D04C6FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Params", "Params\Params.csproj", "{153D16C1-8237-4BBA-A83A-732FFD402DD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,14 @@ Global
 		{51566EAA-873C-45C8-9DFC-CB085D04C6FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51566EAA-873C-45C8-9DFC-CB085D04C6FD}.Release|x64.ActiveCfg = Release|Any CPU
 		{51566EAA-873C-45C8-9DFC-CB085D04C6FD}.Release|x64.Build.0 = Release|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Debug|x64.Build.0 = Debug|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Release|x64.ActiveCfg = Release|Any CPU
+		{153D16C1-8237-4BBA-A83A-732FFD402DD1}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

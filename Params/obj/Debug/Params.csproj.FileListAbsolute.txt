@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\bin\Debug\Params.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\bin\Debug\Params.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\bin\Debug\Params.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\obj\Debug\Params.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\obj\Debug\Params.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\Params\obj\Debug\Params.pdb
