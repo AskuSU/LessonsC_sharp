@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\bin\Debug\imenova_parametry.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\bin\Debug\imenova_parametry.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\bin\Debug\imenova_parametry.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\obj\Debug\imenova_parametry.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\obj\Debug\imenova_parametry.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\obj\Debug\imenova_parametry.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\imenova_parametry\obj\Debug\imenova_parametry.pdb
