@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\bin\Debug\OOP_AutoProperties.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\bin\Debug\OOP_AutoProperties.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\bin\Debug\OOP_AutoProperties.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\obj\Debug\OOP_AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\obj\Debug\OOP_AutoProperties.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AutoProperties\obj\Debug\OOP_AutoProperties.pdb
