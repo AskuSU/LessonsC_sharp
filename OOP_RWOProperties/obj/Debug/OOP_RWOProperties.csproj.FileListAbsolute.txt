@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\bin\Debug\OOP_RWOProperties.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\bin\Debug\OOP_RWOProperties.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\bin\Debug\OOP_RWOProperties.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\obj\Debug\OOP_RWOProperties.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\obj\Debug\OOP_RWOProperties.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\obj\Debug\OOP_RWOProperties.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_RWOProperties\obj\Debug\OOP_RWOProperties.pdb
