@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\bin\Debug\OOP_ConstuctorClass.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\bin\Debug\OOP_ConstuctorClass.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\bin\Debug\OOP_ConstuctorClass.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\obj\Debug\OOP_ConstuctorClass.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\obj\Debug\OOP_ConstuctorClass.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\obj\Debug\OOP_ConstuctorClass.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ConstuctorClass\obj\Debug\OOP_ConstuctorClass.pdb
