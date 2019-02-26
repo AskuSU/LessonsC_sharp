@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\bin\Debug\OOP_Inheritance.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\bin\Debug\OOP_Inheritance.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\obj\Debug\OOP_Inheritance.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\obj\Debug\OOP_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\obj\Debug\OOP_Inheritance.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_Inheritance\obj\Debug\OOP_Inheritance.pdb
