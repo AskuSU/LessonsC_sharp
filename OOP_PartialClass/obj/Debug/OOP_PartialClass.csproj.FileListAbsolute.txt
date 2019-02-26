@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\bin\Debug\OOP_PartialClass.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\bin\Debug\OOP_PartialClass.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\bin\Debug\OOP_PartialClass.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\obj\Debug\OOP_PartialClass.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\obj\Debug\OOP_PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\obj\Debug\OOP_PartialClass.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialClass\obj\Debug\OOP_PartialClass.pdb
