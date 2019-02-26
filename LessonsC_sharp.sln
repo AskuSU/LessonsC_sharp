@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_InitClasses", "OOP_Init
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PartialClass", "OOP_PartialClass\OOP_PartialClass.csproj", "{C767C7A4-F1FE-4D34-838B-58B3D2AA319C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PartialMethod", "OOP_PartialMethod\OOP_PartialMethod.csproj", "{F7186A6D-3015-4002-8474-C9DD086A06B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,14 @@ Global
 		{C767C7A4-F1FE-4D34-838B-58B3D2AA319C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C767C7A4-F1FE-4D34-838B-58B3D2AA319C}.Release|x64.ActiveCfg = Release|Any CPU
 		{C767C7A4-F1FE-4D34-838B-58B3D2AA319C}.Release|x64.Build.0 = Release|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7186A6D-3015-4002-8474-C9DD086A06B1}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

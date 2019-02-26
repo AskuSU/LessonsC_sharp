@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\bin\Debug\OOP_PartialMethod.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\bin\Debug\OOP_PartialMethod.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\bin\Debug\OOP_PartialMethod.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\obj\Debug\OOP_PartialMethod.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\obj\Debug\OOP_PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\obj\Debug\OOP_PartialMethod.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_PartialMethod\obj\Debug\OOP_PartialMethod.pdb
