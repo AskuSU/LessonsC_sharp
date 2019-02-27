@@ -13,5 +13,10 @@ namespace OOP_Inheritance
         private string prField = "BaseClass.prField";
 
         protected string protField = "BaseClass.protField";
+
+        public void Method()
+        {
+            Console.WriteLine("Метод базового класса");
+        }
     }
 }

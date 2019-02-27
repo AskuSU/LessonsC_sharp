@@ -15,10 +15,19 @@ namespace OOP_Inheritance
         //    protField = "DerivedClass.protField";
 
         //}
+        public DerivedClass()
+        {
+                
+        }
 
         public DerivedClass(string s)
         {
             pubField = s;
+        }
+
+        new public void Method()
+        {
+            Console.WriteLine("Метод DerivedClass");
         }
 
     }

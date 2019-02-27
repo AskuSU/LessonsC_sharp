@@ -12,7 +12,15 @@ namespace OOP_Inheritance
         {
             DerivedClass dClass = new DerivedClass();
 
-            Console.WriteLine(dClass.pubField);
+            //Console.WriteLine(dClass.pubField);
+
+            //Console.WriteLine(new string('-', 20));
+
+            //DerivedClass dClass2 = new DerivedClass("DerivedClass.pubField");
+
+            //Console.WriteLine(dClass2.pubField);
+
+            dClass.Method();
 
             Console.ReadKey();
         }
