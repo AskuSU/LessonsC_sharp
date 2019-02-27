@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\bin\Debug\OOP_PrivedenieTipov3.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\bin\Debug\OOP_PrivedenieTipov3.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\bin\Debug\OOP_PrivedenieTipov3.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\obj\Debug\OOP_PrivedenieTipov3.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\obj\Debug\OOP_PrivedenieTipov3.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_PrivedenieTipov3\obj\Debug\OOP_PrivedenieTipov3.pdb

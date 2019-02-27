@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PrivedenieTipov", "OOP_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PrivedenieTipov2", "OOP_PrivedenieTipov2\OOP_PrivedenieTipov2.csproj", "{F5B757F0-DA21-429C-A547-10064936F89B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PrivedenieTipov3", "OOP_PrivedenieTipov3\OOP_PrivedenieTipov3.csproj", "{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -331,6 +333,14 @@ Global
 		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|x64.ActiveCfg = Release|Any CPU
 		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|x64.Build.0 = Release|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Debug|x64.Build.0 = Debug|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Release|x64.ActiveCfg = Release|Any CPU
+		{3D9FA24A-B971-4463-8C5A-E0677A9CAD8D}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
