@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_VirtualChleny2", "OOP_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PrivedenieTipov", "OOP_PrivedenieTipov\OOP_PrivedenieTipov.csproj", "{060A7A5F-E479-4CD4-ADE6-E5D5CFCFE512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_PrivedenieTipov2", "OOP_PrivedenieTipov2\OOP_PrivedenieTipov2.csproj", "{F5B757F0-DA21-429C-A547-10064936F89B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,14 @@ Global
 		{060A7A5F-E479-4CD4-ADE6-E5D5CFCFE512}.Release|Any CPU.Build.0 = Release|Any CPU
 		{060A7A5F-E479-4CD4-ADE6-E5D5CFCFE512}.Release|x64.ActiveCfg = Release|Any CPU
 		{060A7A5F-E479-4CD4-ADE6-E5D5CFCFE512}.Release|x64.Build.0 = Release|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Debug|x64.Build.0 = Debug|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|x64.ActiveCfg = Release|Any CPU
+		{F5B757F0-DA21-429C-A547-10064936F89B}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
