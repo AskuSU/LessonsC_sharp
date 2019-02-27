@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\bin\Debug\OOP_BaseConstr.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\bin\Debug\OOP_BaseConstr.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\bin\Debug\OOP_BaseConstr.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\obj\Debug\OOP_BaseConstr.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\obj\Debug\OOP_BaseConstr.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\obj\Debug\OOP_BaseConstr.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseConstr\obj\Debug\OOP_BaseConstr.pdb
