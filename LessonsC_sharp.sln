@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Inheritance", "OOP_Inhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BaseConstr", "OOP_BaseConstr\OOP_BaseConstr.csproj", "{1AB1B456-B71C-4031-891F-CB9CB52F745B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_VirtualChleny", "OOP_VirtualChleny\OOP_VirtualChleny.csproj", "{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,14 @@ Global
 		{1AB1B456-B71C-4031-891F-CB9CB52F745B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1AB1B456-B71C-4031-891F-CB9CB52F745B}.Release|x64.ActiveCfg = Release|Any CPU
 		{1AB1B456-B71C-4031-891F-CB9CB52F745B}.Release|x64.Build.0 = Release|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Debug|x64.Build.0 = Debug|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|x64.ActiveCfg = Release|Any CPU
+		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

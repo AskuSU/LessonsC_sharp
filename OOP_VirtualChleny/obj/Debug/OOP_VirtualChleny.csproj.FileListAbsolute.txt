@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\bin\Debug\OOP_VirtualChleny.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\bin\Debug\OOP_VirtualChleny.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\bin\Debug\OOP_VirtualChleny.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\obj\Debug\OOP_VirtualChleny.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\obj\Debug\OOP_VirtualChleny.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\obj\Debug\OOP_VirtualChleny.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_VirtualChleny\obj\Debug\OOP_VirtualChleny.pdb
