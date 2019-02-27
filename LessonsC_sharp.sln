@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BaseConstr", "OOP_BaseC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_VirtualChleny", "OOP_VirtualChleny\OOP_VirtualChleny.csproj", "{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_VirtualChleny2", "OOP_VirtualChleny2\OOP_VirtualChleny2.csproj", "{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +303,14 @@ Global
 		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|x64.ActiveCfg = Release|Any CPU
 		{7DC11E90-31B2-44EF-8E21-BB3FA13A7756}.Release|x64.Build.0 = Release|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B06D44C-A778-4DA4-B047-9CBB8FE95C6F}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
