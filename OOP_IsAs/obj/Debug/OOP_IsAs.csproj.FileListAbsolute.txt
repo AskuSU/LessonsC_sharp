@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\bin\Debug\OOP_IsAs.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\bin\Debug\OOP_IsAs.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\bin\Debug\OOP_IsAs.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\obj\Debug\OOP_IsAs.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\obj\Debug\OOP_IsAs.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\obj\Debug\OOP_IsAs.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_IsAs\obj\Debug\OOP_IsAs.pdb
