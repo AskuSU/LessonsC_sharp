@@ -24,6 +24,9 @@ namespace OOP_IsAs
             {
                 bClass = null;
             }
+
+            BaseClass dClassUp = dClass as BaseClass;
+
             Console.ReadKey();
         }
     }
