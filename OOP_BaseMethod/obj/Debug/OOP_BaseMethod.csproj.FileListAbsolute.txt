@@ -1,0 +1,7 @@
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\bin\Debug\OOP_BaseMethod.exe.config
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\bin\Debug\OOP_BaseMethod.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\bin\Debug\OOP_BaseMethod.pdb
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\obj\Debug\OOP_BaseMethod.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\obj\Debug\OOP_BaseMethod.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\obj\Debug\OOP_BaseMethod.exe
+C:\Users\АндрейACER\source\repos\LessonsC_sharp\OOP_BaseMethod\obj\Debug\OOP_BaseMethod.pdb
