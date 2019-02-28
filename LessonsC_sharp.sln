@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BaseMethod", "OOP_BaseM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BaseMethod2", "OOP_BaseMethod2\OOP_BaseMethod2.csproj", "{7E65A2C1-C364-4E71-8883-A78E2B2661E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_BaseMethod3", "OOP_BaseMethod3\OOP_BaseMethod3.csproj", "{CE03E5FF-7444-4A98-B254-6A401C598DDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -371,6 +373,14 @@ Global
 		{7E65A2C1-C364-4E71-8883-A78E2B2661E6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E65A2C1-C364-4E71-8883-A78E2B2661E6}.Release|x64.ActiveCfg = Release|Any CPU
 		{7E65A2C1-C364-4E71-8883-A78E2B2661E6}.Release|x64.Build.0 = Release|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Debug|x64.Build.0 = Debug|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Release|x64.ActiveCfg = Release|Any CPU
+		{CE03E5FF-7444-4A98-B254-6A401C598DDD}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
