@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\bin\Debug\OOP_AbstractClass2.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\bin\Debug\OOP_AbstractClass2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\bin\Debug\OOP_AbstractClass2.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\obj\Debug\OOP_AbstractClasses2.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\obj\Debug\OOP_AbstractClass2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\obj\Debug\OOP_AbstractClass2.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_AbstractClass2\obj\Debug\OOP_AbstractClasses2.csprojAssemblyReference.cache
