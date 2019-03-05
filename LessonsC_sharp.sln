@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_AbstractClasses", "OOP_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_AbstractClasses2", "OOP_AbstractClass2\OOP_AbstractClasses2.csproj", "{0DF0240D-5371-4208-BA97-F63E3259B9BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interfaces", "OOP_Interfaces\OOP_Interfaces.csproj", "{AFD464BE-A399-49E4-854D-3D79B4846240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,14 @@ Global
 		{0DF0240D-5371-4208-BA97-F63E3259B9BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0DF0240D-5371-4208-BA97-F63E3259B9BF}.Release|x64.ActiveCfg = Release|Any CPU
 		{0DF0240D-5371-4208-BA97-F63E3259B9BF}.Release|x64.Build.0 = Release|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Debug|x64.Build.0 = Debug|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFD464BE-A399-49E4-854D-3D79B4846240}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
