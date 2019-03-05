@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\bin\Debug\OOP_Interfaces4.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\bin\Debug\OOP_Interfaces4.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\bin\Debug\OOP_Interfaces4.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\obj\Debug\OOP_Interfaces4.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\obj\Debug\OOP_Interfaces4.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\obj\Debug\OOP_Interfaces4.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces4\obj\Debug\OOP_Interfaces4.pdb
