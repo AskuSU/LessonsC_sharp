@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes3", "OOP_Stati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes4", "OOP_StaticLes4\OOP_StaticLes4.csproj", "{2859D6FF-65F1-41B8-AFCE-EF485F408083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes5", "OOP_StaticLes5\OOP_StaticLes5.csproj", "{D182F72B-558B-47D2-BFBC-2D4C00B63277}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -551,6 +553,14 @@ Global
 		{2859D6FF-65F1-41B8-AFCE-EF485F408083}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2859D6FF-65F1-41B8-AFCE-EF485F408083}.Release|x64.ActiveCfg = Release|Any CPU
 		{2859D6FF-65F1-41B8-AFCE-EF485F408083}.Release|x64.Build.0 = Release|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Debug|x64.Build.0 = Debug|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|x64.ActiveCfg = Release|Any CPU
+		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
