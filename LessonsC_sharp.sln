@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interfaces8", "OOP_Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Compares", "OOP_Compares\OOP_Compares.csproj", "{D4023F41-E691-49D2-A425-2F56A40D36E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes1", "OOP_StaticLes1\OOP_StaticLes1.csproj", "{64296131-9C4A-4671-900F-227004734959}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -511,6 +513,14 @@ Global
 		{D4023F41-E691-49D2-A425-2F56A40D36E1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D4023F41-E691-49D2-A425-2F56A40D36E1}.Release|x64.ActiveCfg = Release|Any CPU
 		{D4023F41-E691-49D2-A425-2F56A40D36E1}.Release|x64.Build.0 = Release|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Debug|x64.Build.0 = Debug|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Release|x64.ActiveCfg = Release|Any CPU
+		{64296131-9C4A-4671-900F-227004734959}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\bin\Debug\OOP_StaticLes1.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\bin\Debug\OOP_StaticLes1.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\bin\Debug\OOP_StaticLes1.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\obj\Debug\OOP_StaticLes1.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\obj\Debug\OOP_StaticLes1.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\obj\Debug\OOP_StaticLes1.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_StaticLes1\obj\Debug\OOP_StaticLes1.pdb
