@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interfaces6", "OOP_Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interfaces7", "OOP_Interfaces7\OOP_Interfaces7.csproj", "{B8FBE240-65DC-42EB-9AC2-7C4D434A143A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Interfaces8", "OOP_Interfaces8\OOP_Interfaces8.csproj", "{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -491,6 +493,14 @@ Global
 		{B8FBE240-65DC-42EB-9AC2-7C4D434A143A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B8FBE240-65DC-42EB-9AC2-7C4D434A143A}.Release|x64.ActiveCfg = Release|Any CPU
 		{B8FBE240-65DC-42EB-9AC2-7C4D434A143A}.Release|x64.Build.0 = Release|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Debug|x64.Build.0 = Debug|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Release|x64.ActiveCfg = Release|Any CPU
+		{7137A5B8-94BF-4822-925C-2DA7CD2CEC56}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

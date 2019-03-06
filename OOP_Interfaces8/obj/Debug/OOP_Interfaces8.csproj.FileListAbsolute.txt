@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\bin\Debug\OOP_Interfaces8.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\bin\Debug\OOP_Interfaces8.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\bin\Debug\OOP_Interfaces8.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\obj\Debug\OOP_Interfaces8.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\obj\Debug\OOP_Interfaces8.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Interfaces8\obj\Debug\OOP_Interfaces8.pdb
