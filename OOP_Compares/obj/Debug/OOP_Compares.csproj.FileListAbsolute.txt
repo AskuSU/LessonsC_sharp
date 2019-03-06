@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\bin\Debug\OOP_Compares.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\bin\Debug\OOP_Compares.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\bin\Debug\OOP_Compares.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\obj\Debug\OOP_Compares.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\obj\Debug\OOP_Compares.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\obj\Debug\OOP_Compares.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Compares\obj\Debug\OOP_Compares.pdb
