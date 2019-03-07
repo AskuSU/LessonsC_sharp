@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\bin\Debug\OOP_ExMethods.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\bin\Debug\OOP_ExMethods.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\bin\Debug\OOP_ExMethods.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\obj\Debug\OOP_ExMethods.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\obj\Debug\OOP_ExMethods.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ExMethods\obj\Debug\OOP_ExMethods.pdb
