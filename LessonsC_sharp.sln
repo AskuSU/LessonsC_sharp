@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_SingletonPattern", "OOP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_ExMethods", "OOP_ExMethods\OOP_ExMethods.csproj", "{E05A4323-CC60-4065-823B-90E4B4F56BC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_TransferOfOwnship", "OOP_TransferOfOwnship\OOP_TransferOfOwnship.csproj", "{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -581,6 +583,14 @@ Global
 		{E05A4323-CC60-4065-823B-90E4B4F56BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E05A4323-CC60-4065-823B-90E4B4F56BC5}.Release|x64.ActiveCfg = Release|Any CPU
 		{E05A4323-CC60-4065-823B-90E4B4F56BC5}.Release|x64.Build.0 = Release|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Debug|x64.Build.0 = Debug|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Release|x64.ActiveCfg = Release|Any CPU
+		{9C7BC930-BECC-4E59-A4DB-D969C26BE38E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

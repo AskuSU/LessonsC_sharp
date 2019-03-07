@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\obj\Debug\OOP_TransferOfOwnship.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\bin\Debug\OOP_TransferOfOwnship.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\bin\Debug\OOP_TransferOfOwnship.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\bin\Debug\OOP_TransferOfOwnship.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\obj\Debug\OOP_TransferOfOwnship.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_TransferOfOwnship\obj\Debug\OOP_TransferOfOwnship.pdb
