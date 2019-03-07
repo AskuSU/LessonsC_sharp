@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\bin\Debug\OOP_NestedClasses.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\bin\Debug\OOP_NestedClasses.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\bin\Debug\OOP_NestedClasses.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\obj\Debug\OOP_NestedClasses.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\obj\Debug\OOP_NestedClasses.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\obj\Debug\OOP_NestedClasses.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_NestedClasses\obj\Debug\OOP_NestedClasses.pdb
