@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes4", "OOP_Stati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_StaticLes5", "OOP_StaticLes5\OOP_StaticLes5.csproj", "{D182F72B-558B-47D2-BFBC-2D4C00B63277}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_SingletonPattern", "OOP_SingletonPattern\OOP_SingletonPattern.csproj", "{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -561,6 +563,14 @@ Global
 		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|x64.ActiveCfg = Release|Any CPU
 		{D182F72B-558B-47D2-BFBC-2D4C00B63277}.Release|x64.Build.0 = Release|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Debug|x64.Build.0 = Debug|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Release|x64.ActiveCfg = Release|Any CPU
+		{D69DB46D-22F5-440B-B1CF-FC9709B8D52E}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
