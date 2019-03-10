@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\bin\Debug\OOP_Structures.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\bin\Debug\OOP_Structures.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\bin\Debug\OOP_Structures.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\obj\Debug\OOP_Structures.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\obj\Debug\OOP_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\obj\Debug\OOP_Structures.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Structures\obj\Debug\OOP_Structures.pdb
