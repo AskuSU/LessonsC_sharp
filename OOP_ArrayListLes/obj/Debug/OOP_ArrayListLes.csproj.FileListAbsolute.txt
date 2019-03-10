@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\bin\Debug\OOP_ArrayListLes.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\bin\Debug\OOP_ArrayListLes.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\bin\Debug\OOP_ArrayListLes.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\obj\Debug\OOP_ArrayListLes.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\obj\Debug\OOP_ArrayListLes.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\obj\Debug\OOP_ArrayListLes.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_ArrayListLes\obj\Debug\OOP_ArrayListLes.pdb
