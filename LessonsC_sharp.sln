@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_ArrayListLes", "OOP_Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Structures", "OOP_Structures\OOP_Structures.csproj", "{632384A2-14B5-4C6A-81A9-F243DD21F9F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Boxing_Unboxing", "OOP_Boxing_Unboxing\OOP_Boxing_Unboxing.csproj", "{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -621,6 +623,14 @@ Global
 		{632384A2-14B5-4C6A-81A9-F243DD21F9F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{632384A2-14B5-4C6A-81A9-F243DD21F9F4}.Release|x64.ActiveCfg = Release|Any CPU
 		{632384A2-14B5-4C6A-81A9-F243DD21F9F4}.Release|x64.Build.0 = Release|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Debug|x64.Build.0 = Debug|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Release|x64.ActiveCfg = Release|Any CPU
+		{85B15F1F-2DE1-4955-A7E9-9D97C359A3B8}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

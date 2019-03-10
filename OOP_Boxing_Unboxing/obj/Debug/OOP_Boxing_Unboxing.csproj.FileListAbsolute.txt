@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\bin\Debug\OOP_Boxing_Unboxing.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\bin\Debug\OOP_Boxing_Unboxing.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\bin\Debug\OOP_Boxing_Unboxing.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\obj\Debug\OOP_Boxing_Unboxing.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\obj\Debug\OOP_Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\obj\Debug\OOP_Boxing_Unboxing.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Boxing_Unboxing\obj\Debug\OOP_Boxing_Unboxing.pdb
