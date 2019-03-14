@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\bin\Debug\OOP_New.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\bin\Debug\OOP_New.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\bin\Debug\OOP_New.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\obj\Debug\OOP_New.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\obj\Debug\OOP_New.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\obj\Debug\OOP_New.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_New\obj\Debug\OOP_New.pdb
