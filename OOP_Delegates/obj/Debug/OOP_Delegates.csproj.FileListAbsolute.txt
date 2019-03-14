@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\bin\Debug\OOP_Delegates.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\bin\Debug\OOP_Delegates.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\bin\Debug\OOP_Delegates.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\obj\Debug\OOP_Delegates.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\obj\Debug\OOP_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\obj\Debug\OOP_Delegates.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Delegates\obj\Debug\OOP_Delegates.pdb
