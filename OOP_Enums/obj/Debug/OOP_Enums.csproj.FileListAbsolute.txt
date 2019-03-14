@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\bin\Debug\OOP_Enums.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\bin\Debug\OOP_Enums.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\bin\Debug\OOP_Enums.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\obj\Debug\OOP_Enums.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\obj\Debug\OOP_Enums.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\obj\Debug\OOP_Enums.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Enums\obj\Debug\OOP_Enums.pdb
