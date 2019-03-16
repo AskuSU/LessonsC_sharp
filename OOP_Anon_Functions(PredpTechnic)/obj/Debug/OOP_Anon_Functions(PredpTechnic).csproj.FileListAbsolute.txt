@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\bin\Debug\OOP_Anon_Functions(PredpTechnic).exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\bin\Debug\OOP_Anon_Functions(PredpTechnic).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\bin\Debug\OOP_Anon_Functions(PredpTechnic).pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\obj\Debug\OOP_Anon_Functions(PredpTechnic).csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\obj\Debug\OOP_Anon_Functions(PredpTechnic).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(PredpTechnic)\obj\Debug\OOP_Anon_Functions(PredpTechnic).pdb
