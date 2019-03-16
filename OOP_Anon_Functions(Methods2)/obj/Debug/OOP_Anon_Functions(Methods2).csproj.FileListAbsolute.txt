@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\bin\Debug\OOP_Anon_Functions(Methods2).exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\bin\Debug\OOP_Anon_Functions(Methods2).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\bin\Debug\OOP_Anon_Functions(Methods2).pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\obj\Debug\OOP_Anon_Functions(Methods2).csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\obj\Debug\OOP_Anon_Functions(Methods2).csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\obj\Debug\OOP_Anon_Functions(Methods2).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(Methods2)\obj\Debug\OOP_Anon_Functions(Methods2).pdb
