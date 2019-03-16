@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\bin\Debug\OOP_Anon_Functions(StatementLambdas).exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\bin\Debug\OOP_Anon_Functions(StatementLambdas).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\bin\Debug\OOP_Anon_Functions(StatementLambdas).pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\obj\Debug\OOP_Anon_Functions(StatementLambdas).csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\obj\Debug\OOP_Anon_Functions(StatementLambdas).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(StatementLambdas)\obj\Debug\OOP_Anon_Functions(StatementLambdas).pdb
