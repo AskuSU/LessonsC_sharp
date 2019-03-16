@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\bin\Debug\OOP_GenericTypes3.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\bin\Debug\OOP_GenericTypes3.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\bin\Debug\OOP_GenericTypes3.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\obj\Debug\OOP_GenericDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\obj\Debug\OOP_GenericTypes3.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\obj\Debug\OOP_GenericTypes3.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_GenericTypes3\obj\Debug\OOP_GenericDelegates.csprojAssemblyReference.cache
