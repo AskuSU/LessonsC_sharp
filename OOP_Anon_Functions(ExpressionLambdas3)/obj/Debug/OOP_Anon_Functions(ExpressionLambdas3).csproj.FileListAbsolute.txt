@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\bin\Debug\OOP_Anon_Functions(ExpressionLambdas3).exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\bin\Debug\OOP_Anon_Functions(ExpressionLambdas3).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\bin\Debug\OOP_Anon_Functions(ExpressionLambdas3).pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\obj\Debug\OOP_Anon_Functions(ExpressionLambdas3).csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\obj\Debug\OOP_Anon_Functions(ExpressionLambdas3).csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\obj\Debug\OOP_Anon_Functions(ExpressionLambdas3).exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_Anon_Functions(ExpressionLambdas3)\obj\Debug\OOP_Anon_Functions(ExpressionLambdas3).pdb
