@@ -1,0 +1,6 @@
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\bin\Debug\OOP_DelegatesArray2.exe.config
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\bin\Debug\OOP_DelegatesArray2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\bin\Debug\OOP_DelegatesArray2.pdb
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\obj\Debug\OOP_DelegatesArray2.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\obj\Debug\OOP_DelegatesArray2.exe
+C:\Users\Zahar\source\repos\LessonsC_sharp\OOP_DelegatesArray2\obj\Debug\OOP_DelegatesArray2.pdb
